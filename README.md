@@ -1,5 +1,5 @@
 # [Ascetic-cursors](https://github.com/Myagko/Ascetic-cursors/tree/main/cursors)
-Simple looking cursors based on popular terminal colorschemes.
+Simple looking X11 cursors based on popular terminal colorschemes.
 This cursor pack was made with [charakterziffer/cursor-toolbox](https://github.com/charakterziffer/cursor-toolbox).
 
 # Nord variant
